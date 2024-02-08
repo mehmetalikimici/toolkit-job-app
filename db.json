@@ -1,0 +1,76 @@
+{
+  "jobs": [
+    {
+      "id": "5",
+      "position": "Product Manager",
+      "company": "Amazon",
+      "location": "Seattle",
+      "status": "Mülakat",
+      "type": "Yarı Zamanlı",
+      "date": "3/10/2024"
+    },
+    {
+      "id": "7461b131-6253-4ce1-87a5-851f31e9ce5d",
+      "position": "Backend Developer",
+      "company": "Kodlama.io",
+      "location": "İstanbul/Üsküdar",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "date": "1/25/2024"
+    },
+    {
+      "id": "8281f8ba-d45c-427c-8578-bf274af7ca3f",
+      "position": "Frontend Developer",
+      "company": "Udemig",
+      "location": "İzmir/Bayraklı",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "date": "1/25/2023"
+    },
+    {
+      "id": "1a5a8ea0-3f65-43f0-89e5-9a42031cadb3",
+      "position": "Marketing Manager",
+      "company": "Coca Cola",
+      "location": "İstanbul/Levent",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "date": "1/25/2022"
+    },
+    {
+      "id": "472fddab-c5ae-4a44-9083-e2daade083d5",
+      "position": "Backend Developer",
+      "company": "Kodlama.io",
+      "location": "İstanbul/Üsküdar",
+      "status": "Mülakat",
+      "type": "Uzaktan",
+      "date": "1/25/2024"
+    },
+    {
+      "id": "011c3493-4c82-4a56-8af5-6c19a299174b",
+      "position": "Data Scientist",
+      "company": "Microsoft",
+      "location": "Redmond",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "date": "1/25/2024"
+    },
+    {
+      "id": "cbe1c8e2-f900-40e0-bf16-a9438edf5983",
+      "position": "Software Tester",
+      "company": "IBM",
+      "location": "Ankara/Çankaya",
+      "status": "Reddedildi",
+      "type": "Uzaktan",
+      "date": "1/25/2024"
+    },
+    {
+      "id": "36bd76af-c448-4977-9e76-b3307189ae3f",
+      "position": "Product Manager",
+      "company": "Udemig",
+      "location": "Seattle",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "date": "2/8/2024"
+    }
+  ]
+}
